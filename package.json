@@ -1,0 +1,22 @@
+{
+  "name": "oto-date-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugurcanucar/oto-date-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugurcanucar/oto-date-picker/issues"
+  },
+  "homepage": "https://github.com/ugurcanucar/oto-date-picker#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
